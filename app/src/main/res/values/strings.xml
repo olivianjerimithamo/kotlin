@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">morning</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_grid">GridActivity</string>
+    <string name="title_activity_assign">AssignActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_old2">OldActivity2</string>
+    <string name="title_activity_new2">NewActivity2</string>
+    <string name="title_activity_web2">WebActivity2</string>
+</resources>
